@@ -1,0 +1,16 @@
+# Should be in sync with environment/python/requirements.txt
+alabaster
+Babel
+docutils
+imagesize
+Jinja2
+MarkupSafe
+Pygments
+pytz
+requests
+six
+snowballstemmer
+sphinxcontrib-phpdomain
+sphinxcontrib-jquery
+git+https://github.com/oroinc/sphinxdoc-integrity-check-ext.git@new-sphinx
+sphinx-multiversion
